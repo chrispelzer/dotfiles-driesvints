@@ -53,7 +53,7 @@ brew 'yarn'
 # cask 'firefox'
 # cask 'github'
 # cask 'google-chrome'
-cask 'gpg-suite'
+# cask 'gpg-suite'
 # cask 'homebrew/cask-drivers/elgato-stream-deck'
 cask 'imageoptim'
 # cask 'insomnia'
@@ -80,12 +80,12 @@ cask 'imageoptim'
 
 # Fonts
 cask 'font-lato'
-cask 'font-open-sans'
-cask 'font-roboto'
-cask 'font-source-code-pro-for-powerline'
-cask 'font-source-code-pro'
-cask 'font-source-sans-pro'
-cask 'font-source-serif-pro'
+# cask 'font-open-sans'
+# cask 'font-roboto'
+# cask 'font-source-code-pro-for-powerline'
+# cask 'font-source-code-pro'
+# cask 'font-source-sans-pro'
+# cask 'font-source-serif-pro'
 
 # Mac App Store
 # mas 'Byword', id: 420212497
